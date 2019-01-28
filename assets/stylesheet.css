@@ -1,0 +1,18 @@
+.jumbotron, .row  {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background:darkgrey;
+}
+
+.panel-body {
+    background: rgb(229, 226, 226);
+    padding-left: 11px;
+}
+
+.panel-title {
+    background: rgb(196, 186, 186);
+    padding-left: 3px;
+    border: black solid 1px;
+}
